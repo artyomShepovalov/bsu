@@ -1,0 +1,22 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:bussiness/f:Interfaces.cs" caret="346" fromTop="18" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:bussiness/f:Order.cs" caret="467" fromTop="18" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:AddProductCommand.cs" caret="533" fromTop="20" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:GetSumPriceCommand.cs" caret="988" fromTop="21" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:CommandQueueProcessor.cs" caret="135" fromTop="7" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:bussiness/f:Product.cs" caret="121" fromTop="5" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:Interfaces.cs" caret="318" fromTop="12" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/f:Program.cs" caret="735" fromTop="23" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:bussiness/f:Interfaces.cs" caret="441" fromTop="22" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:AddProductCommand.cs" caret="751" fromTop="20" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:Interfaces.cs" caret="555" fromTop="19" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:bussiness/f:Order.cs" caret="693" fromTop="25" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:bussiness/f:Product.cs" caret="451" fromTop="19" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:CommandQueueProcessor.cs" caret="661" fromTop="22" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:GetSumPriceCommand.cs" caret="988" fromTop="21" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/f:Program.cs" caret="3227" fromTop="12" />
+  </RecentEdits>
+</RecentFiles>

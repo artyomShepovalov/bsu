@@ -1,0 +1,10 @@
+C:\Users\vladimirmischenchuk\Documents\Visual Studio 2010\Projects\templates(decorator)\templates(decorator)\bin\Debug\templates(decorator).exe
+C:\Users\vladimirmischenchuk\Documents\Visual Studio 2010\Projects\templates(decorator)\templates(decorator)\bin\Debug\templates(decorator).pdb
+C:\Users\vladimirmischenchuk\Documents\Visual Studio 2010\Projects\templates(decorator)\templates(decorator)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vladimirmischenchuk\Documents\Visual Studio 2010\Projects\templates(decorator)\templates(decorator)\obj\x86\Debug\templates(decorator).exe
+C:\Users\vladimirmischenchuk\Documents\Visual Studio 2010\Projects\templates(decorator)\templates(decorator)\obj\x86\Debug\templates(decorator).pdb
+C:\Users\АРТЕМ\Documents\Projects\templates(decorator)\templates(decorator)\obj\x86\Debug\templates(decorator).exe
+C:\Users\АРТЕМ\Documents\Projects\templates(decorator)\templates(decorator)\obj\x86\Debug\templates(decorator).pdb
+C:\Users\АРТЕМ\Documents\Projects\templates(decorator)\templates(decorator)\bin\Debug\templates(decorator).exe
+C:\Users\АРТЕМ\Documents\Projects\templates(decorator)\templates(decorator)\bin\Debug\templates(decorator).pdb
+C:\Users\АРТЕМ\Documents\Projects\templates(decorator)\templates(decorator)\obj\x86\Debug\ResolveAssemblyReference.cache

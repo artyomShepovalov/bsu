@@ -1,0 +1,10 @@
+C:\Users\vladimirmischenchuk\documents\visual studio 2010\Projects\templates(flyweight)\templates(flyweight)\bin\Debug\templates(flyweight).exe
+C:\Users\vladimirmischenchuk\documents\visual studio 2010\Projects\templates(flyweight)\templates(flyweight)\bin\Debug\templates(flyweight).pdb
+C:\Users\vladimirmischenchuk\documents\visual studio 2010\Projects\templates(flyweight)\templates(flyweight)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vladimirmischenchuk\documents\visual studio 2010\Projects\templates(flyweight)\templates(flyweight)\obj\x86\Debug\templates(flyweight).exe
+C:\Users\vladimirmischenchuk\documents\visual studio 2010\Projects\templates(flyweight)\templates(flyweight)\obj\x86\Debug\templates(flyweight).pdb
+C:\Users\АРТЕМ\Documents\Projects\templates(flyweight+factory method)\templates(flyweight)\obj\x86\Debug\templates(flyweight).exe
+C:\Users\АРТЕМ\Documents\Projects\templates(flyweight+factory method)\templates(flyweight)\obj\x86\Debug\templates(flyweight).pdb
+C:\Users\АРТЕМ\Documents\Projects\templates(flyweight+factory method)\templates(flyweight)\bin\Debug\templates(flyweight).exe
+C:\Users\АРТЕМ\Documents\Projects\templates(flyweight+factory method)\templates(flyweight)\bin\Debug\templates(flyweight).pdb
+C:\Users\АРТЕМ\Documents\Projects\templates(flyweight+factory method)\templates(flyweight)\obj\x86\Debug\ResolveAssemblyReference.cache

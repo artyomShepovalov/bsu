@@ -1,0 +1,5 @@
+C:\Users\АРТЕМ\Documents\Projects\templates(Factory method)\templates(Factory method)\templates(Factory method)\bin\Debug\templates(Factory method).exe
+C:\Users\АРТЕМ\Documents\Projects\templates(Factory method)\templates(Factory method)\templates(Factory method)\bin\Debug\templates(Factory method).pdb
+C:\Users\АРТЕМ\Documents\Projects\templates(Factory method)\templates(Factory method)\templates(Factory method)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\АРТЕМ\Documents\Projects\templates(Factory method)\templates(Factory method)\templates(Factory method)\obj\x86\Debug\templates(Factory method).exe
+C:\Users\АРТЕМ\Documents\Projects\templates(Factory method)\templates(Factory method)\templates(Factory method)\obj\x86\Debug\templates(Factory method).pdb

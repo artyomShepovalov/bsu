@@ -1,0 +1,12 @@
+c:\users\vladimirmischenchuk\documents\visual studio 2010\Projects\AbstractFactory FactoryMethod\AbstractFactory FactoryMethod\bin\Debug\AbstractFactory FactoryMethod.exe
+c:\users\vladimirmischenchuk\documents\visual studio 2010\Projects\AbstractFactory FactoryMethod\AbstractFactory FactoryMethod\bin\Debug\AbstractFactory FactoryMethod.pdb
+c:\users\vladimirmischenchuk\documents\visual studio 2010\Projects\AbstractFactory FactoryMethod\AbstractFactory FactoryMethod\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vladimirmischenchuk\documents\visual studio 2010\Projects\AbstractFactory FactoryMethod\AbstractFactory FactoryMethod\obj\x86\Debug\AbstractFactory FactoryMethod.exe
+c:\users\vladimirmischenchuk\documents\visual studio 2010\Projects\AbstractFactory FactoryMethod\AbstractFactory FactoryMethod\obj\x86\Debug\AbstractFactory FactoryMethod.pdb
+c:\users\vladimirmischenchuk\documents\visual studio 2010\Projects\AbstractFactory FactoryMethod\AbstractFactory FactoryMethod\bin\Debug\AbstractFactory FactoryMethod.exe.config
+C:\Users\АРТЕМ\Documents\Projects\templates(AbstractFactory)\AbstractFactory FactoryMethod\bin\Debug\AbstractFactory FactoryMethod.exe.config
+C:\Users\АРТЕМ\Documents\Projects\templates(AbstractFactory)\AbstractFactory FactoryMethod\obj\x86\Debug\AbstractFactory FactoryMethod.exe
+C:\Users\АРТЕМ\Documents\Projects\templates(AbstractFactory)\AbstractFactory FactoryMethod\obj\x86\Debug\AbstractFactory FactoryMethod.pdb
+C:\Users\АРТЕМ\Documents\Projects\templates(AbstractFactory)\AbstractFactory FactoryMethod\bin\Debug\AbstractFactory FactoryMethod.exe
+C:\Users\АРТЕМ\Documents\Projects\templates(AbstractFactory)\AbstractFactory FactoryMethod\bin\Debug\AbstractFactory FactoryMethod.pdb
+C:\Users\АРТЕМ\Documents\Projects\templates(AbstractFactory)\AbstractFactory FactoryMethod\obj\x86\Debug\ResolveAssemblyReference.cache

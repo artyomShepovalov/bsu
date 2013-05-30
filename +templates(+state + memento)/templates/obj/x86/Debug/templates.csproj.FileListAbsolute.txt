@@ -1,0 +1,15 @@
+c:\users\vladimirmischenchuk\documents\visual studio 2010\Projects\templates\templates\bin\Debug\templates.exe
+c:\users\vladimirmischenchuk\documents\visual studio 2010\Projects\templates\templates\bin\Debug\templates.pdb
+c:\users\vladimirmischenchuk\documents\visual studio 2010\Projects\templates\templates\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vladimirmischenchuk\documents\visual studio 2010\Projects\templates\templates\obj\x86\Debug\templates.exe
+c:\users\vladimirmischenchuk\documents\visual studio 2010\Projects\templates\templates\obj\x86\Debug\templates.pdb
+C:\Users\vladimirmischenchuk\Documents\Visual Studio 2010\Projects\templates(+state + memento)\templates\obj\x86\Debug\templates.exe
+C:\Users\vladimirmischenchuk\Documents\Visual Studio 2010\Projects\templates(+state + memento)\templates\obj\x86\Debug\templates.pdb
+C:\Users\vladimirmischenchuk\Documents\Visual Studio 2010\Projects\templates(+state + memento)\templates\bin\Debug\templates.exe
+C:\Users\vladimirmischenchuk\Documents\Visual Studio 2010\Projects\templates(+state + memento)\templates\bin\Debug\templates.pdb
+C:\Users\vladimirmischenchuk\Documents\Visual Studio 2010\Projects\templates(+state + memento)\templates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\АРТЕМ\Documents\Projects\templates(+state + memento)\templates\obj\x86\Debug\templates.exe
+C:\Users\АРТЕМ\Documents\Projects\templates(+state + memento)\templates\obj\x86\Debug\templates.pdb
+C:\Users\АРТЕМ\Documents\Projects\templates(+state + memento)\templates\bin\Debug\templates.exe
+C:\Users\АРТЕМ\Documents\Projects\templates(+state + memento)\templates\bin\Debug\templates.pdb
+C:\Users\АРТЕМ\Documents\Projects\templates(+state + memento)\templates\obj\x86\Debug\ResolveAssemblyReference.cache

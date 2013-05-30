@@ -1,0 +1,24 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:bussiness/f:States.cs" caret="18" fromTop="0" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:bussiness/f:Product.cs" caret="0" fromTop="0" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:bussiness/f:Order.cs" caret="0" fromTop="0" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:bussiness/f:Interfaces.cs" caret="0" fromTop="0" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:AddProductCommand.cs" caret="1345" fromTop="14" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:Interfaces.cs" caret="324" fromTop="15" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:GetSumPriceCommand.cs" caret="857" fromTop="14" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:CommandQueueProcessor.cs" caret="890" fromTop="16" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/f:Program.cs" caret="2145" fromTop="0" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:bussiness/f:Product.cs" caret="13" fromTop="0" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:bussiness/f:Interfaces.cs" caret="352" fromTop="12" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:bussiness/f:Order.cs" caret="830" fromTop="21" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:AddProductCommand.cs" caret="556" fromTop="16" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:GetSumPriceCommand.cs" caret="277" fromTop="10" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:Interfaces.cs" caret="697" fromTop="21" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:infrastructure/f:CommandQueueProcessor.cs" caret="260" fromTop="9" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/d:bussiness/f:States.cs" caret="18" fromTop="0" />
+    <File id="E8127467-7796-4F6E-88C9-1EE5F691449D/f:Program.cs" caret="1423" fromTop="15" />
+  </RecentEdits>
+</RecentFiles>

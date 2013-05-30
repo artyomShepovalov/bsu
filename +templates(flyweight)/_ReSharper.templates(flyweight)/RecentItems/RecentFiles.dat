@@ -1,0 +1,44 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:character/f:ICharacter.cs" caret="171" fromTop="4" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:characters/f:CharacterB.cs" caret="181" fromTop="6" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:characters/f:CharacterA.cs" caret="169" fromTop="6" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:characters/f:CharacterC.cs" caret="210" fromTop="8" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:factories/f:IBitmapFactory.cs" caret="102" fromTop="3" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:structs/f:Point.cs" caret="33" fromTop="0" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:factories/f:BitmapFactory.cs" caret="179" fromTop="5" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:style/f:IStyle.cs" caret="0" fromTop="0" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:style/f:IStyleDeploy.cs" caret="81" fromTop="2" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:style/f:Style.cs" caret="228" fromTop="8" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:factories/f:CharFactory.cs" caret="464" fromTop="9" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:factories/f:StyleFactory.cs" caret="799" fromTop="9" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:factories/f:ICharFactory.cs" caret="0" fromTop="0" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:factories/f:IStyleFactory.cs" caret="0" fromTop="0" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:style/f:StyleDeploy.cs" caret="228" fromTop="8" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:document/f:ILabel.cs" caret="215" fromTop="8" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/f:Program.cs" caret="121" fromTop="9" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:character/f:Character.cs" caret="115" fromTop="2" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:document/f:Label.cs" caret="1206" fromTop="18" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:structs/f:Point.cs" caret="33" fromTop="0" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:character/f:Character.cs" caret="204" fromTop="3" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:character/f:ICharacter.cs" caret="171" fromTop="2" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:factories/f:IBitmapFactory.cs" caret="102" fromTop="2" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:factories/f:ICharFactory.cs" caret="87" fromTop="2" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:style/f:IStyle.cs" caret="37" fromTop="0" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:style/f:IStyleDeploy.cs" caret="35" fromTop="0" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:factories/f:BitmapFactory.cs" caret="184" fromTop="4" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:characters/f:CharacterA.cs" caret="169" fromTop="6" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:characters/f:CharacterB.cs" caret="169" fromTop="6" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:characters/f:CharacterC.cs" caret="210" fromTop="8" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:style/f:Style.cs" caret="237" fromTop="8" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:style/f:StyleDeploy.cs" caret="230" fromTop="9" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:factories/f:IStyleFactory.cs" caret="0" fromTop="0" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:factories/f:CharFactory.cs" caret="772" fromTop="17" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:factories/f:StyleFactory.cs" caret="918" fromTop="16" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:abstract/d:document/f:ILabel.cs" caret="323" fromTop="11" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/d:concrete/d:document/f:Label.cs" caret="545" fromTop="15" />
+    <File id="441A89BD-738F-4052-8895-B0B33A03FE24/f:Program.cs" caret="86" fromTop="4" />
+  </RecentEdits>
+</RecentFiles>
